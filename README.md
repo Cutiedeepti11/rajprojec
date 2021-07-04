@@ -1,1 +1,2 @@
-# rajprojec
+# synchronousBallMovement
+Ball moving synchronously
